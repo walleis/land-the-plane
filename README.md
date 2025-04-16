@@ -26,7 +26,7 @@ This is a simple text-based adventure game where you are the unexpected pilot of
 
 ## Installation
 
-No specific installation is needed. Save the provided code as a `.py` file (e.g., `emergency_landing.py`) and run it using a Python interpreter.
+No specific installation is needed. Save the provided code as a `.py` file (e.g., `land_the_plane.py`) and run it using a Python interpreter.
 
 ## Code Explanation
 
